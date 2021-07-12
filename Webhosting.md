@@ -36,3 +36,107 @@ WordPress Support ----->	WordPress is an online website creation tool. It is a p
 <br>
 
 ![Webhostingguide](https://image.slidesharecdn.com/web-hosting-151019064350-lva1-app6892/95/web-hosting-guide-for-beginners-5-638.jpg?cb=1445237157)
+
+## Types of webhosting:-
+* Shared hosting
+* VPS hosting
+* Dedicated Server
+* Reseller hosting
+* Cloud hosting
+* Static hosting 
+ 
+ ---
+
+## Shared Hosting
+
+> Shared hosting is web server where several websites are kept on a same server.
+
+Eg: Inmotion, bluehost etc.
+
+>Used for small websites. 
+Most includes Email, FTP, database etc.
+ * Shared is the cheapest type of hosting out there.
+ * With a shared hosting plan, all domains share the same server resources, such as RAM (Random Access Memory) and CPU (Central Processing Unit).
+
+ ### Pros of shared hosting:
+ * Affordable — $3 to $15
+ * No specific technical knowledge is required
+ * Out-of-the-box native website management features
+ * Pre-configured server environment
+ * Managed server administration and maintenance
+
+### Cons of shared hosting.
+
+* Often support only certain programming languages and environments such as HTML and PHP.
+* Bandwidth limits — you’ll pay more when you exceed a certain traffic threshold.
+* Limited storage space or expensive upgrades.
+* Traffic surges on other websites can impact the availability of your website.
+
+ ---
+ ___
+ <br>
+ <br>
+
+## Virtual Private Server (VPS):
+Virtual private hosting is a good “upgrade” after a shared hosting plan. In this case, you still share the physical server space with other website owners. But your website is hosted on an independent piece of virtual “real estate”.
+
+>Think of VPS hosting as renting a flat in a multi-store building. You can do anything you like within your rental, but can’t make changes to the building itself.
+
+>With a VPS you can run any type of software and use any programming language you need (not just PHP for WordPress). Also, you get higher caps on storage and bandwidth. Meaning you can accommodate more website traffic.
+
+### Pros 
+* Dedicated server space
+* Stability and scalability
+* Root access to the server
+* Ability to install any software you want/need
+
+### Cons
+* software patches and security are your responsibility
+* Server performance tuning and “housekeeping” tasks are on you too
+* Requires technical acumen for installation/management
+* Still has config and control limitations
+
+ ---
+ ---
+ <br>
+ <br>
+
+
+ ## Reseller server
+ Web hosting for resellers is a plan that allows you to sell various shared plans. There is a control panel on reseller plans that helps you to have control over your shared accounts for billing, storage, RAM, etc. This will help you to have full control, which you will offer to your client on different plans. Many web designers use reseller hosting to track their customers.
+
+> $15 to $100/month
+
+### Pros
+
+* With your internet hosting accounts, you can have more flexibility.
+* From the Reseller web hosting, you can save money.
+* At a low price, you can earn more income.
+ ---
+  ---
+<br>
+<br>
+
+## Dedicated Server
+
+* Your own actual server.
+* You rent out a physical machine.
+* Full acesses & privillege.
+* Harder to manage but very powerful
+> $100 to $400 / month.
+
+---
+---
+<br>
+<br>
+
+## Cloud Hosting.
+
+* Used for web apps
+* Multi servers works together
+* Not for beginners/ harder to manage
+* Very scalable/not for large apps.
+
+> Pay as you go.
+___
+___
